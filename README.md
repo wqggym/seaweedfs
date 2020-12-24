@@ -1,5 +1,5 @@
 # SeaweedFS
-源Fork地址：
+Fork：
 https://github.com/chrislusf/seaweedfs
 
 [![Build Status](https://travis-ci.org/chrislusf/seaweedfs.svg?branch=master)](https://travis-ci.org/chrislusf/seaweedfs)
